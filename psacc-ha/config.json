@@ -8,7 +8,7 @@
     "armhf",
     "aarch64"
   ],
-  "url": "https://github.com/flobz/psa_car_controller",
+  "url": "https://github.com/rchiileea/psa_car_controller",
   "startup": "application",
   "boot": "auto",
   "ports_description": {"5000/tcp": "Web interface"},
